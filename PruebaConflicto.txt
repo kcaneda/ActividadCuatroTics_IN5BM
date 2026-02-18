@@ -1,4 +1,8 @@
 
 Este es el mensaje para probar la resolución de conflictos.
 
+<<<<<<< HEAD
 Este mensaje fue escrito por Carlos Barahona.
+=======
+Este mensaje fue escrito por Kenneth Caneda.
+>>>>>>> 9e15597c38ff89c4e003b84b3ad8bd87b90e019e
